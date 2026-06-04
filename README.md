@@ -38,6 +38,16 @@ The primary goal of Mezgebe Sbhat is to make Ethiopian Orthodox hymn education m
 * PDF Viewer
 * Audio Playback Services
 
+## Contributors
+
+| Name           | Role           |
+| -------------- | -------------- |
+| Yeabsira Yonas | Developer |
+| Yihun Shekuri  | Developer |
+
+Special thanks to everyone who contributes to the preservation and accessibility of Ethiopian Orthodox liturgical teachings through technology.
+
+
 ## Disclaimer
 
 Mezgebe Sbhat is an independent educational and religious application developed to support the learning of Ethiopian Orthodox hymns and prayers. All content remains the property of its respective owners and religious institutions.
